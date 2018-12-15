@@ -1,5 +1,5 @@
 <?php
-	define('ROOT_URL', 'http://localhost/ForWeb/PHP/SimplePhpCRUD/');
+	define('ROOT_URL', 'http://localhost/SimplePhpCRUD/');
 	define('DB_HOST', 'localhost');
 	define('DB_USER', 'root');
 	define('DB_PASS', '');
