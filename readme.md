@@ -2,7 +2,11 @@
  using mySqli and pure PHP
 ## to use it 
 clone the repo in your htdocs 
+
+
 execute the SQL script to generate the database in php my admin 
+
+
 or change the config files of the data base if you chose to work with another one of your choice 
 
 ## a screan shot of the landing page 
